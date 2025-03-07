@@ -1,4 +1,4 @@
-![Alt text](https://drive.google.com/file/d/1iZnqf57IEGzqT0pV7rxhWKp9YJrjGxtW/view?usp=sharing)
+![Alt text](https://drive.google.com/file/d/1iZnqf57IEGzqT0pV7rxhWKp9YJrjGxtW/view)
 
 # Gravitational Lens Modeling of HST Observed Doubly Imaged Quasars
 
