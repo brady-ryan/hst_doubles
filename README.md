@@ -1,2 +1,5 @@
-# hst_doubles
-data reduction and time-delay analysis of doubly lensed quasars with HST
+![Alt text](https://drive.google.com/file/d/1iZnqf57IEGzqT0pV7rxhWKp9YJrjGxtW/view?usp=sharing)
+
+# Gravitational Lens Modeling of HST Observed Doubly Imaged Quasars
+
+This repository stores the HST data, code, and notebooks for the TDCOSMO doubly imaged quasars project.
