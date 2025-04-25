@@ -17,5 +17,5 @@ cd ${cutout_data}/${name}/${filter}
 input_notebook="model_${filter}.ipynb"
 output_notebook="model_${filter}.ipynb"
 
-# pass these notebook paths as arguments to the Python script
+# execute the notebook via papermill
 papermill "$input_notebook" "$output_notebook"
