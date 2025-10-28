@@ -1,5 +1,8 @@
 ![Alt text](tdcosmo.png)
 
+
+<bf>NOTE: ALL ANALYSIS HAS MOVED TO THIS REPO: [brady-ryan/doubles_modeling](https://github.com/brady-ryan/doubles_modeling)</bf>
+
 # Gravitational Lens Modeling of HST Observed Doubly Imaged Quasars
 
 This repository stores the HST data, code, and notebooks for the TDCOSMO doubly imaged quasars project. 
